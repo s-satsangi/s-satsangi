@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **s-satsangi/s-satsangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 -->
 ## Hey! I've spent last year learning the ruby - rails - javascript - react stack, currently working on adding redux and jest to my skillset
 
-# Interested in developing ...
+## Interested in developing ...
 - videochat apps
 - music production apps 
 
-# 🔭 I’m currently working on ...
+## 🔭 I’m currently working on ...
 - migrating a react chat app to redux
 
-# 🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
 - redux 🦆 🦆 🦆
 
