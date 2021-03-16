@@ -2,7 +2,7 @@
 
 ## My Stack 👉 <img src = "./images/ruby.png" height="30"/><img src ="./images/rails.png" height="30"/><img src ="./images/javascript.png" height="30"/><img src = "./images/react.png" height="30"/>
 
-- currently adding redux <img src = "./images/redux.png" height="15"/> and jest to my skillset
+- currently adding redux <img src = "./images/redux.png" height="20"/> and jest to my skillset
 
 ## Interested in developing ...
 
@@ -11,11 +11,11 @@
 
 ## 🔭 I’m currently working on ...
 
-- migrating a react chat app to redux <img src = "./images/redux.png" height="15"/>
+- migrating a react chat app to redux <img src = "./images/redux.png" height="20"/>
 
 ## 🌱 I’m currently learning ...
 
-- redux 🦆 <img src = "./images/redux.png" height="15"/> 🦆 <img src = "./images/redux.png" height="15"/> 🦆 <img src = "./images/redux.png" height="15"/>
+- redux 🦆 <img src = "./images/redux.png" height="20"/> 🦆 <img src = "./images/redux.png" height="20"/> 🦆 <img src = "./images/redux.png" height="20"/>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=s-satsangi&show_icons=true&hide=[%22issues%22])
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=s-satsangi&layout=compact">
