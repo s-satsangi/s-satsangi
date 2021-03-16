@@ -1,9 +1,8 @@
-<head><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css"> </head>
 # Hi there, I'm Sharad 👋
 
-## My Stack 👉 <i class="devicon-ruby-plain colored" font-size="1"></i>|<i class="devicon-rails-plain-wordmark colored"></i>|<i class="devicon-javascript-plain colored"></i>|<i class="devicon-react-original-wordmark colored"></i>
+## My Stack 👉 <img src = "./images/ruby.png" height="30"/><img src ="./images/rails.png" height="30"/><img src ="./images/javascript.png" height="30"/><img src = "./images/react.png" height="30"/>
 
-- currently adding redux and jest to my skillset
+- currently adding redux <img src = "./images/redux.png" height="20"/> and jest to my skillset
 
 ## Interested in developing ...
 
@@ -12,11 +11,11 @@
 
 ## 🔭 I’m currently working on ...
 
-- migrating a react chat app to redux <i class="devicon-redux-original colored"></i>
+- migrating a react chat app to redux <img src = "./images/redux.png" height="20"/>
 
 ## 🌱 I’m currently learning ...
 
-- redux 🦆 <i class="devicon-redux-original colored"></i> 🦆 <i class="devicon-redux-original colored"></i> 🦆 <i class="devicon-redux-original colored"></i>
+- redux 🦆 <img src = "./images/redux.png" height="20"/> 🦆 <img src = "./images/redux.png" height="20"/> 🦆 <img src = "./images/redux.png" height="20"/>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=s-satsangi&show_icons=true&hide=[%22issues%22])
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=s-satsangi&layout=compact">
