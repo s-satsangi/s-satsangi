@@ -1,5 +1,8 @@
 # Hi there, I'm Sharad 👋
 
+## 🔭 I’m currently working on ...
+Implementing UI & expanding features on a [Frontend Chat App](https://github.com/s-satsangi/sandboxChat-front) 
+
 ## My Stack 👉 <img src = "./images/ruby.png" height="30"/><img src ="./images/rails.png" height="30"/><img src ="./images/javascript.png" height="30"/><img src = "./images/react.png" height="30"/>
 
 - currently adding redux <img src = "./images/redux.png" height="20"/> and jest to my skillset
@@ -8,10 +11,6 @@
 
 - videochat apps
 - music production apps
-
-## 🔭 I’m currently working on ...
-
-- migrating a react chat app to redux <img src = "./images/redux.png" height="20"/>
 
 ## 🌱 I’m currently learning ...
 
