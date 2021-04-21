@@ -1,7 +1,9 @@
 # Hi there, I'm Sharad 👋
 
 ## 🔭 I’m currently working on ...
-Implementing UI & expanding features on a [Frontend Chat App](https://github.com/s-satsangi/sandboxChat-front) 
+
+This week I'm working on an app for a hackathon. The repo is over [here]()
+Implementing UI & expanding features on a [Frontend Chat App](https://github.com/s-satsangi/sandboxChat-front)
 
 ## My Stack 👉 <img src = "./images/ruby.png" height="30"/><img src ="./images/rails.png" height="30"/><img src ="./images/javascript.png" height="30"/><img src = "./images/react.png" height="30"/>
 
